@@ -4,11 +4,11 @@ A web-based **Sudoku Game** built using **HTML**, **CSS**, and **JavaScript**. C
 
 ## 🚀 Demo
 
-Play the game here: [Sudoku Game Web](https://saivarshith123.github.io/Sudoku-Game-Web/)
+Play the game here: [Sudoku Game Web]()
 
 ## 📸 Screenshots
-
-![Sudoku Game Screenshot](https://raw.githubusercontent.com/saivarshith123/Sudoku-Game-Web/main/screenshot.png)
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/d267a1df-56b3-415d-8b3c-c72624ebd1c3" />
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/448ca59b-25ec-477e-9bcc-c1f9ce6bf94f" />
 
 ## 🧩 Features
 
